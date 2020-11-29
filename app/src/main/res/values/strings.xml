@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">News Update</string>
+    <string name="title_header_main">Aplikasi Berita \nTerupdate</string>
+    <string name="action_settings">Alarm</string>
+    <string name="alarm_off">Alarm mati</string>
+    <string name="alarm_on">alarm hidup</string>
+    <string name="alarm_on_toast">alarm aktif</string>
+    <string name="alarm_off_toast">alarm mati</string>
+    <string name="notification_text"></string>
+    <string name="notification_tittle">Yuk Baca Berita biar Update asek  </string>
+</resources>
